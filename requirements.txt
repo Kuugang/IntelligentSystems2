@@ -1,0 +1,12 @@
+tensorflow
+tensorflow_hub
+opencv-python
+scikit-learn
+numpy
+huggingface_hub[cli]
+datasets
+transformer
+torch
+ollama
+diffusers
+accelerate
